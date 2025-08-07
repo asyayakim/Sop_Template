@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+.env
+/_ReSharper.Caches/./compose.yaml
+./Template/appsettings.Development.json
+./Template/appsettings.json
