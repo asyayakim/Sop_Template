@@ -6,3 +6,4 @@ riderModule.iml
 /_ReSharper.Caches/./compose.yaml
 ./Template/appsettings.Development.json
 ./Template/appsettings.json
+./.sops.yaml
